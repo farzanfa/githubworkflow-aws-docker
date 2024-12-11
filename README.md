@@ -76,4 +76,4 @@ The GitHub Actions workflow is defined in `.github/workflows/main.yml`. It autom
 ### How to Use:
 1. Commit and push changes to the `main` branch.
 2. Navigate to the **Actions** tab in your GitHub repository.
-3. Monitor the workflow to ensure all steps pass.
+3. Monitor the workflow to ensure all steps pass. 
